@@ -31,15 +31,14 @@
   line-height: 100px;
   text-align: center;
   font-size: 25px;
-} 
+}
 
 .buttons > div {
   border-top: 1px solid #999;
   border-right: 1px solid #a89d9d;
-} 
+}
 
 #equal {
   background-color: #55f;
   color: white;
 }
-
