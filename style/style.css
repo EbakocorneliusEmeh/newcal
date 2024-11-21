@@ -1,6 +1,7 @@
 .container {
   max-width: 400px;
   margin: "10vh auto 0 auto";
+  align-items: center;
 
   /* box-shadow: 43px 17px #999999; */
 }
@@ -17,7 +18,8 @@
   line-height: 70px;
   padding: 16px 8px;
   font-size: 25px;
-  background-color: cadetblue;
+  background-color: #093335;
+  margin-top: 80px;
 }
 
 .buttons {
@@ -29,21 +31,15 @@
   line-height: 100px;
   text-align: center;
   font-size: 25px;
-  cursor: pointer;
-}
+} 
 
 .buttons > div {
   border-top: 1px solid #999;
-  border-right: 1px solid #999;
-}
+  border-right: 1px solid #a89d9d;
+} 
 
 #equal {
   background-color: #55f;
   color: white;
 }
 
-.button:hover {
-  background-color: #323330;
-  color: white;
-  transition: 0.5% ease-in-out;
-}
