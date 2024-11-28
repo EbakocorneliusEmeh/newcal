@@ -5,8 +5,9 @@
   box-sizing: border-box;
 }
 
-.emi{
-  max-width: 400px;
+.emi {
+  
+  /* max-width: 400px; */
   width: 100%;
   height: 90vh;
   background-color: silver;
@@ -44,12 +45,8 @@ form .display input {
 
 form .display {
   display: flex;
-justify-content: flex-end;
-margin: 20px 0;
-}
-
-form input.equal {
-  width: 110px;
+  justify-content: flex-end;
+  margin: 20px 0;
 }
 
 form input.operator {
