@@ -37,6 +37,7 @@ button {
   text-align: left;
   border: none;
   background-color: black;
+  color: white;
 }
 .operator-btn {
   background-color: orange;
