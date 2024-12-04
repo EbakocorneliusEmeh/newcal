@@ -16,6 +16,7 @@ button {
   font-size: 2rem;
   font-weight: bold;
 }
+
 #boy {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -39,7 +40,7 @@ button {
   background-color: black;
   color: white;
 }
+
 .operator-btn {
   background-color: orange;
-
 }
